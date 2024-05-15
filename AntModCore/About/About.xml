@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <packageId>PurplePatty.AntsCore</packageId>
+    <name>AntsCore</name>
+    <author>PurplePatty</author>
+    <description>The core mod upon which all other ant mods are built</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <loadAfter>
+        <li>erdelf.HumanoidAlienRaces</li>
+    </loadAfter>
+
+</ModMetaData>
